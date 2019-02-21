@@ -34,7 +34,7 @@ const typecode = [{
 }];
 
 const util = {
-	key:'b526b09b86cd2996e7732be8ab8c4430',
+	key: 'b526b09b86cd2996e7732be8ab8c4430',
 	/**
 	 * 初始化高德地图api
 	 */
